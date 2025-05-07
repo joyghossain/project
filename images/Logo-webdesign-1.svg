@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 595.28 841.89">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke-width: 14px;
+      }
+
+      .st0, .st1 {
+        fill: #2e3192;
+      }
+
+      .st0, .st2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .st1 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 202.83px;
+      }
+
+      .st2 {
+        fill: #ed1c24;
+        font-family: AdobeArabic-Regular, 'Adobe Arabic';
+        font-size: 494.93px;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M237.07,183.26c-69.3,0-125.48,56.18-125.48,125.48s56.18,125.48,125.48,125.48,125.48-56.18,125.48-125.48-56.18-125.48-125.48-125.48ZM237.07,394.71c-47.48,0-85.97-38.49-85.97-85.97s38.49-85.97,85.97-85.97,85.97,38.49,85.97,85.97-38.49,85.97-85.97,85.97Z"/>
+  <text class="st2" transform="translate(136.16 530.17) scale(1.18 1)"><tspan x="0" y="0">C</tspan></text>
+  <text class="st1" transform="translate(333.88 431.05) scale(.99 1)"><tspan x="0" y="0">n</tspan></text>
+</svg>
